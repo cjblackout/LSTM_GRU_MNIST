@@ -1,4 +1,4 @@
-# LSTM_MNIST
+# MNIST Classification using Recurrent Neural Networks.
 Implementation of LSTM Cells for MNIST Classification
 
 
